@@ -21,7 +21,6 @@
     "@types/nightwatch": "^2.3.25",
     "@vitejs/plugin-vue": "^4.3.4",
     "@vue/test-utils": "^2.4.1",
-    "chromedriver": "^117.0.1",
     "concurrently": "^8.2.1",
     "eslint": "^8.49.0",
     "eslint-plugin-vue": "^9.17.0",
