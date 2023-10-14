@@ -12,7 +12,6 @@ import HelloWorld from "./components/helloWorld.vue";
       width="250"
       height="250"
     />
-
     <div class="wrapper">
       <HelloWorld msg="Taylor Swift Random Quotes Generator" />
 
