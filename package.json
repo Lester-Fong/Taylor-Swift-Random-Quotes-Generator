@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "start": "start npm run dev && cd vue-proxy-server && start node server.js",
     "preview": "vite preview",
     "test:unit": "vitest",
     "test:e2e": "nightwatch tests/e2e",
@@ -21,6 +22,7 @@
     "@vitejs/plugin-vue": "^4.3.4",
     "@vue/test-utils": "^2.4.1",
     "chromedriver": "^117.0.1",
+    "concurrently": "^8.2.1",
     "eslint": "^8.49.0",
     "eslint-plugin-vue": "^9.17.0",
     "geckodriver": "^4.2.1",
