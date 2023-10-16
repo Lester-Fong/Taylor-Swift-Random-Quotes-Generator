@@ -1,6 +1,9 @@
 <template>
   <div class="about">
-    <h1>Acknowledgements:</h1>
+    <h1>
+      Special Thanks to my girl Sherlyn Joy for inspiring me to build projects
+      like this.
+    </h1>
   </div>
 </template>
 
