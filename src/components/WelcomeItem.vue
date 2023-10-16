@@ -50,7 +50,7 @@ h3 {
   font-weight: 500;
   text-align: center;
   margin-bottom: 0.4rem;
-  color: var(--color-heading);
+  color: #2c3e50;
 }
 
 @media (min-width: 1024px) {

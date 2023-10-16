@@ -25,6 +25,7 @@ h1 {
 h3 {
   margin-top: 1rem;
   font-size: 1.2rem;
+  color: #2c3e50;
 }
 
 .greetings h1,
