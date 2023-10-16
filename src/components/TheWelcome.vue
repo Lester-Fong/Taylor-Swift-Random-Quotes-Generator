@@ -54,6 +54,7 @@ export default {
   methods: {
     async onGenerateRandomQuote() {
       try {
+        // const response = await fetch(`http://localhost:3000/get`, {
         const response = await fetch(`https://swiftquotes.vercel.app/get`, {
           method: "GET",
           headers: {
